@@ -11,7 +11,8 @@ Je suis passionné par la cybersécurité et je m'intéresse particulièrement �
 
 ## Me contacter
 
-Si vous souhaitez me contacter, vous pouvez le faire via mon adresse email : [grand.dominos@gmail.com](mailto:grand.dominos@gmail.com)
+Si vous souhaitez me contacter, vous pouvez le faire via mon adresse email : grand.dominos@gmail.com(mailto:grand.dominos@gmail.com)
+
 Vous pouvez bientôt le faire depuis l'adresse mail suivante: [contact@drflamios.org]
 
 Je suis ouvert aux collaborations et aux idées de projets intéressantes, n'hésitez pas à me contacter si vous souhaitez travailler ensemble !
