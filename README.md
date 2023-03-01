@@ -1,16 +1,17 @@
-### Hi there 👋
+# Bienvenue sur le profil de DRflamios !
 
-<!--
-**DRflamios/DRflamios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis passionné par la cybersécurité et je m'intéresse particulièrement à la sécurité des réseaux et des applications. J'ai une expérience en PHP, HTML, CSS, JavaScript et Vue3. 
 
-Here are some ideas to get you started:
+## Mes projets
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- DRflamios.org : C'est un portfolio que j'utilise afin de montrer mes projets mais principalement comme site pour tester, apprendre de nouvelles choses avec Vue.js.
+- Talksource : Un site web que j'ai créé avec le cours de OpenClassrooms sur le PHP, un réseau social anonyme.
+- Bot discord du Svalbard Coral de Nations Glory : Un bot Discord personnalisé pour le Svalbard sur le serveur Coral du jeu Nations Glory.
+- Serveur XSS en python : Un serveur qui permet de tester les vulnérabilités XSS.
+
+## Me contacter
+
+Si vous souhaitez me contacter, vous pouvez le faire via mon adresse email : [grand.dominos@gmail.com](mailto:grand.dominos@gmail.com)
+Vous pouvez bientôt le faire depuis l'adresse mail suivante: [contact@drflamios.org]
+
+Je suis ouvert aux collaborations et aux idées de projets intéressantes, n'hésitez pas à me contacter si vous souhaitez travailler ensemble !
