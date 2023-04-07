@@ -8,11 +8,9 @@ Je suis passionné par la cybersécurité et je m'intéresse particulièrement �
 - Talksource : Un site web que j'ai créé avec le cours de OpenClassrooms sur le PHP, un réseau social anonyme.
 - Bot discord du Svalbard Coral de Nations Glory : Un bot Discord personnalisé pour le Svalbard sur le serveur Coral du jeu Nations Glory.
 - Serveur XSS en python : Un serveur qui permet de tester les vulnérabilités XSS.
-
+  Et bien plus, mais cela reste privé.
 ## Me contacter
 
-Si vous souhaitez me contacter, vous pouvez le faire via mon adresse email : grand.dominos@gmail.com
-
-Vous pouvez bientôt le faire depuis l'adresse mail suivante: contact@drflamios.org
+Si vous souhaitez me contacter, vous pouvez le faire via mon adresse email : contact@drflamios.org
 
 Je suis ouvert aux collaborations et aux idées de projets intéressantes, n'hésitez pas à me contacter si vous souhaitez travailler ensemble !
