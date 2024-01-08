@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">I'm DRflamios, I young student passionate about Cybersecurity, Fullstack, and more.</h3>
+<h3 align="center">I'm DRflamios, a young student passionate about Cybersecurity, Fullstack, and more.</h3>
 
 ###
 
